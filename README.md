@@ -6,12 +6,10 @@
 
 ##### Email ID : pranavmdeshmukh047@gmail.com
 
-##### DAY 1: (Arrays)
+### DAY 1: (Arrays)
 
-Sort and array of 0's 1's and 2's
+* Sort and array of 0's 1's and 2's
+* Kadane's Algorithm
 
-Kadane's Algorithm
-
-Stock buy and sell
-
-Pascal's Triangle
+* Stock buy and sell
+* Pascal's Triangle
